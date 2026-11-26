@@ -1,0 +1,21 @@
+ÜBERSCHRIFTEN · Fontversion 1.000
+https://github.com/ben-wf/ueberschriften-font
+
+42 statische OTF- und 42 WOFF2-Schnitte sowie ein variabler Font als
+TTF und WOFF2. Das Stylesheet fonts/ueberschriften.css bindet die
+statischen Webfonts unter dem Familiennamen ÜBERSCHRIFTEN ein.
+
+Für diese Hausfassung von DINish v4.007 wurden die Schriften umbenannt
+und um die Standardligatur für zwei U+002F ergänzt. Die Konturen werden
+aus dem jeweiligen Slash abgeleitet, einschließlich seiner Variationen.
+Quellen und Buildskript sind im Schrift-Repository enthalten.
+
+Copyright 2021 The DINish Project Authors (https://github.com/playbeing/dinish)
+Copyright 2021-2024 The DINish Project Authors (Angabe in den Schriftdateien)
+Weitere Angaben des Originalprojekts
+Copyright © 2023-2024 Stefan Peev
+Copyright © 2021-2025 Bert Driehuis
+Copyright © 2019 Altinn
+Copyright © 2017 Datto Inc.
+
+SIL Open Font License 1.1. Der vollständige Lizenztext liegt in OFL.txt.
